@@ -29,3 +29,7 @@ Currently, this project does not have any automated tests. However, if you'd lik
 
 ## Questions
 If you have any questions about the repository, feel free to reach out by opening an issue or contacting me directly at cheyennaraelynn@gmail.com You can also find more of my work on GitHu at https://github.com/RaeOfChey.
+
+
+/* const API_URL = `https://www.omdbapi.com/?apikey=${process.env.REACT_APP_OMDB_API_KEY}&t=the_matrix`; */
+
